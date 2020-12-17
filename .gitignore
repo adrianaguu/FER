@@ -1,0 +1,7 @@
+Data/*
+model/*
+model_region/*
+Parameter*
+*.jpg
+Code/__pycache__/*
+Preporcess/__pycache__/*
